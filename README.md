@@ -5,24 +5,6 @@ Welcome to my GitHub profile! I'm a dedicated and passionate Full Stack Web Deve
 - **Skills:** PHP, JavaScript, Python, and modern frameworks like Laravel and React JS.
 - **Interests:** Space exploration, advanced web development, and innovative technologies.
 
-## Projects & Contributions
-
-### 🚀 School Management Application
-Development of an application centralizing and automating administrative and educational tasks.
-- **Technologies:** Laravel (Backend), MySQL (Database), React (Frontend), Python (Automation and Data Analysis).
-
-### 🛒 E-commerce WordPress
-Creation of an e-commerce site on WordPress.
-- **Focus:** Development of a custom theme and integration of e-commerce plugins to optimize the functionality and aesthetics of the site.
-
-### 🚗 Car Rental WordPress
-Development of a car rental website with WordPress.
-- **Features:** Integration of advanced features such as online booking and fleet management to offer an optimal user experience.
-
-### 🏫 School Management WordPress
-Creation of a school management site using WordPress.
-- **Focus:** Development of features dedicated to teachers, students, and administrators to facilitate the administrative and educational management of the institution.
-
 ## Technical Skills
 
 ### Programming Languages
