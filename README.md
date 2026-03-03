@@ -11,38 +11,6 @@ Currently exploring AI integration into modern web platforms.
 - 📊 Learning system design & backend optimization
 - 🐳 Improving DevOps workflows with Docker
 
-## Skills
-
-### Backend Engineering
-
-Laravel, RESTful API design, authentication systems, role-based access control, database architecture, performance optimization
-
-### Frontend Development
-
-React, modern JavaScript (ES6+), responsive UI development, state management fundamentals
-
-### Programming
-
-PHP, JavaScript, Python
-
-### Databases
-
-MySQL, MongoDB, relational schema design, query optimization
-
-### DevOps & Workflow
-
-Git, Docker, Agile methodologies, Jira, testing fundamentals
-
----
-
-## Interests
-
-AI-enhanced web applications
-Scalable system architecture
-System design and backend optimization
-Technology entrepreneurship
-Space systems and complex engineering projects
-
 ## Technical Skills
 
 ### Programming Languages
@@ -95,8 +63,7 @@ Space systems and complex engineering projects
 ---
 
 ## Contact & Connect
-
-- **Email:** [kjidaamanar09@gmail.com](mailto:kjidaamanar09@gmail.com)
+- **Email:** [kjidaamanar09@gmail.com](mailto:kjidaamanar.dev@gmail.com)
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjidaamanar&show_icons=true&locale=en&layout=compact" alt="kjidaamanar" />
