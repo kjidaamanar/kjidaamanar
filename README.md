@@ -1,7 +1,17 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Manar KJIDAA**
 
-Welcome to my GitHub profile! I'm a dedicated and passionate Full Stack Web Developer with over 2 years of experience in web development. My journey in tech is driven by curiosity, a commitment to continuous learning, and a fascination with space.
+👋 Hi, I'm Manar
 
+Full Stack Engineer building scalable web applications with Laravel, React, and Python.
+Focused on backend architecture, clean system design, and performance optimization.
+Currently exploring AI integration into modern web platforms.
+
+🚀 Current Focus
+- 🧠 Integrating AI features into web applications
+- ⚙️ Building scalable Laravel-based platforms
+- 📊 Learning system design & backend optimization
+- 🐳 Improving DevOps workflows with Docker
+- 
 - **Skills:** PHP, JavaScript, Python, and modern frameworks like Laravel and React JS.
 - **Interests:** Space exploration, advanced web development, and innovative technologies.
 
@@ -50,4 +60,4 @@ Welcome to my GitHub profile! I'm a dedicated and passionate Full Stack Web Deve
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjidaamanar&show_icons=true&locale=en&layout=compact" alt="kjidaamanar" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjidaamanar&" alt="manarkjidaa" /></p>
 
-*Keep looking up!* ✨
+Building systems that scale. Learning every day. Always looking up. ✨
