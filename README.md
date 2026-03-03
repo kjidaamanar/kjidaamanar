@@ -11,8 +11,37 @@ Currently exploring AI integration into modern web platforms.
 - 📊 Learning system design & backend optimization
 - 🐳 Improving DevOps workflows with Docker
 
-- **Skills:** PHP, JavaScript, Python, and modern frameworks like Laravel and React JS.
-- **Interests:** Space exploration, advanced web development, and innovative technologies.
+## Skills
+
+### Backend Engineering
+
+Laravel, RESTful API design, authentication systems, role-based access control, database architecture, performance optimization
+
+### Frontend Development
+
+React, modern JavaScript (ES6+), responsive UI development, state management fundamentals
+
+### Programming
+
+PHP, JavaScript, Python
+
+### Databases
+
+MySQL, MongoDB, relational schema design, query optimization
+
+### DevOps & Workflow
+
+Git, Docker, Agile methodologies, Jira, testing fundamentals
+
+---
+
+## Interests
+
+AI-enhanced web applications
+Scalable system architecture
+System design and backend optimization
+Technology entrepreneurship
+Space systems and complex engineering projects
 
 ## Technical Skills
 
