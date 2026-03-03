@@ -1,9 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Manar KJIDAA**
 
-
-Full Stack Engineer building scalable web applications with Laravel, React, and Python.
-Focused on backend architecture, clean system design, and performance optimization.
-Currently exploring AI integration into modern web platforms.
+Full Stack Engineer building scalable web applications with Laravel, React, and Python. Focused on backend architecture, clean system design, and performance optimization. Currently exploring AI integration into modern web platforms.
 
 🚀 Current Focus
 - 🧠 Integrating AI features into web applications
