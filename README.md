@@ -20,7 +20,7 @@ Currently exploring AI integration into modern web platforms.
 
 ---
 
-### Frontend Development
+### Frontend Engineering
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ Currently exploring AI integration into modern web platforms.
 
 ---
 
-### Backend Development
+### Backend Engineering
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -54,7 +54,7 @@ Currently exploring AI integration into modern web platforms.
 
 ---
 
-### DevOps & Tools
+### DevOps & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -62,11 +62,15 @@ Currently exploring AI integration into modern web platforms.
 
 ---
 
+## Engineering Philosophy
+
+- Build systems, not just features  
+- Prioritize maintainability and scalability  
+- Write clean, structured, and testable code  
+- Design secure authentication and access control  
+- Think in terms of architecture and long-term growth  
+
 ## Contact & Connect
 - **Email:** [kjidaamanar09@gmail.com](mailto:kjidaamanar.dev@gmail.com)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjidaamanar&show_icons=true&locale=en&layout=compact" alt="kjidaamanar" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjidaamanar&" alt="manarkjidaa" /></p>
 
 Building systems that scale. Learning every day. Always looking up. ✨
