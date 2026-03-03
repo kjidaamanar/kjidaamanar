@@ -54,14 +54,6 @@ Interested in integrating AI capabilities into modern web platforms.
 
 ---
 
-## Engineering Philosophy
-
-- Build systems, not just features  
-- Prioritize maintainability and scalability  
-- Write clean, structured, and testable code  
-- Design secure authentication and access control  
-- Think in terms of architecture and long-term growth  
-
 ## Contact & Connect
 - **Email:** [kjidaamanar09@gmail.com](mailto:kjidaamanar.dev@gmail.com)
 
